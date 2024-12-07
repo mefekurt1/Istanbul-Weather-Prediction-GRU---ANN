@@ -1,0 +1,4 @@
+- Data is collected from Visual Crossing website.
+- Code for Data collecting with API is also included as API Data.
+- ModelWork is the code for the process.
+- ANN_Midterm file is the project report.
